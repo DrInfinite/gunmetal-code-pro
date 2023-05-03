@@ -1,8 +1,24 @@
 {
   "name": "gunmetal-code-pro",
   "displayName": "Gunmetal Code Pro",
-  "description": "A beautiful and feature rich color theme built to enhance code readability and user performance.",
+  "description": "An aesthetically pleasing, multifaceted, contemporary and sophisticated chromatic scheme constructed to augment the legibility of code and optimize user productivity.",
   "version": "1.0.0",
+  "publisher": "Naparajith",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrInfinite/gunmetal-code-pro"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "naparajith",
+    "gunmetal",
+    "one dark",
+    "code",
+    "pro",
+    "advance",
+    "advanced"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
