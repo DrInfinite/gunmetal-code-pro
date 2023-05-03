@@ -1,16 +1,17 @@
-# gunmetal-code-pro README
+# Welcome to Gunmetal Code pro
 
-## Working with Markdown
+## Get the theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Install the theme from the VSCode marketplace here
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## About the theme
 
-## For more information
+An aesthetically pleasing, multifaceted, contemporary and sophisticated chromatic scheme constructed to augment the legibility of code and optimize user productivity.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Please check the official documentation for
+[Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and
+[Theme Color](https://code.visualstudio.com/docs/getstarted/themes), for more helpful information on building your own themes.
 
-**Enjoy!**
+## CHANGELOG
+
+Check out any changes and any new features of this extension in the [CHANGELOG.MD](https://github.com/DrInfinite/gunmetal-code-pro/blob/main/CHANGELOG.md) file.
