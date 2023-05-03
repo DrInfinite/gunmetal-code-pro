@@ -1,0 +1,21 @@
+{
+  "name": "gunmetal-code-pro",
+  "displayName": "Gunmetal Code Pro",
+  "description": "A beautiful and feature rich color theme built to enhance code readability and user performance.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gunmetal-code-pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gunmetal-code-pro-color-theme.json"
+      }
+    ]
+  }
+}
