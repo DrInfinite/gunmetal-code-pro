@@ -29,7 +29,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "gunmetal-code-pro",
+        "label": "Gunmetal Code Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/gunmetal-code-pro-color-theme.json"
       }
