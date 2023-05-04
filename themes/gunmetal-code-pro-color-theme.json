@@ -257,7 +257,7 @@
 		},
 		{
 			"name": "java modifier.import",
-			"scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
+			"scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.terminator.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
 			"settings": {
 				"foreground": "#abb2bf"
 			}
@@ -275,6 +275,13 @@
 			"settings": {
 				"foreground": "#EED372",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "java punctuation terminator",
+			"scope": "variable.language.wildcard.java",
+			"settings": {
+				"foreground": "#f19101",
 			}
 		},
 		{
@@ -671,13 +678,6 @@
 			}
 		},
 		{
-			"name": "Classes",
-			"scope": "entity.name.type.namespace",
-			"settings": {
-				"foreground": "#EED372"
-			}
-		},
-		{
 			"name": "Java Functions",
 			"scope": "entity.name.function.java",
 			"settings": {
@@ -685,16 +685,8 @@
 			}
 		},
 		{
-			"name": "Classes",
-			"scope": "support.class, entity.name.type.class",
-			"settings": {
-				"foreground": "#EED372",
-				"fontStyle": "underline bold"
-			}
-		},
-		{
 			"name": "Class name",
-			"scope": "entity.name.class.identifier.namespace.type",
+			"scope": "entity.name.class.identifier.namespace.type, support.class, entity.name.type.class, entity.name.type.namespace, support.class.component.vue",
 			"settings": {
 				"foreground": "#EED372"
 			}
@@ -1243,6 +1235,13 @@
 			"settings": {
 				"foreground": "#F19101",
 				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "[VSCODE-CUSTOM]Source Json Meta Structure Dictionary Value Json ",
+			"scope": "meta.structure.dictionary.value.json",
+			"settings": {
+				"foreground": "#56b6c2"
 			}
 		},
 		{
