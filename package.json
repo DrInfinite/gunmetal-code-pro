@@ -2,8 +2,10 @@
   "name": "gunmetal-code-pro",
   "displayName": "Gunmetal Code Pro",
   "description": "An aesthetically pleasing, multifaceted, contemporary and sophisticated chromatic scheme constructed to augment the legibility of code and optimize user productivity.",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "Naparajith",
+  "icon": "icon.jpg",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/DrInfinite/gunmetal-code-pro"
@@ -17,7 +19,8 @@
     "code",
     "pro",
     "advance",
-    "advanced"
+    "advanced",
+    "material"
   ],
   "engines": {
     "vscode": "^1.77.0"
